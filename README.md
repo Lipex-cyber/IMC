@@ -95,4 +95,4 @@ git clone https://github.com/Lipex-cyber/IMC.git
 
 ## 👤 Autor
 
-Desenvolvido por **Felipe** — Disciplina de Programação de Dispositivos Móveis
+Aprimorado por **Felipe** — Disciplina de Programação de Dispositivos Móveis
